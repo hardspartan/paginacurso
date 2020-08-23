@@ -16,3 +16,18 @@ Estandarizar el uso de la cuenta linkedin.
 
 Herramienta para centralizar datos, hacer campañas y producir/calificar leads
     PREGUNTAS: Hubspot? o cual
+
+
+
+    OPE-003 - Operational enablement - Como hacemos Cuando llega una nueva persona
+
+    OPE-004 - Deployment testing and validation  -  Como probamos? 
+
+    Code assets are version controlled - GIT
+
+    Application and workload telemetry - Lo tenemos? El tercero maneja logs con la app? 
+
+    REL-001 - Deployment automation. -- RAYOS!!!! Hay que crear un script CF de la red evaluada con mauqinas SG 
+
+
+
